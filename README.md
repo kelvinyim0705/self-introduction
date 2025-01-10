@@ -10,7 +10,7 @@ Results-focused Software Engineer with a strong background in backend developmen
 ---
 Building a CI/CD pipeline
 
-TBC
+[Building a CI/CD pipeline](https://github.com/kelvinyim0705/building_a_CICID_pipeline)
 
 ---
 Learn monitoring and logging tools (Prometheus/ Grafana)
